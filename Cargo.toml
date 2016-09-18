@@ -1,0 +1,6 @@
+[package]
+name = "perceptron"
+version = "0.1.0"
+authors = ["Bayu Aldi Yansyah <bayualdiyansyah@gmail.com>"]
+
+[dependencies]
